@@ -1,4 +1,4 @@
-{
+[{
    "findItemsByKeywordsResponse":[
       {
          "ack":[
@@ -558,4 +558,4 @@
          ]
       }
    ]
-}
+}]
