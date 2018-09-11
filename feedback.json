@@ -3,7 +3,7 @@
     "id": 1,
     "img": "/img/product1_640x426.jpg",
     "name": "Apple",
-    "price": "1.99",
+    "defective": "15",
     "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
     "attribution": "visualhunt",
     "url": "#",
