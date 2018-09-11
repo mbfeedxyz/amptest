@@ -4,10 +4,9 @@
     "img": "/img/product1_640x426.jpg",
     "name": "Apple",
     "defective": "15",
-    "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
-    "attribution": "visualhunt",
-    "url": "#",
-    "color": "green"
+    "missing": "70",
+    "wrong": "50",
+    "damaged": "15"
   }, {
     "id": 2,
     "img": "/img/product2_640x426.jpg",
