@@ -1,0 +1,24 @@
+{
+  "sellers": [{
+    "id": 1,
+    "name": "Mack",
+    "defective": "5",
+    "missing": "70",
+    "wrong": "50",
+    "damaged": "15"
+  }, {
+    "id": 2,
+    "name": "Jill",
+    "defective": "5",
+    "missing": "70",
+    "wrong": "50",
+    "damaged": "15"
+  }, {
+   "id": 3,
+    "name": "Jack",
+    "defective": "5",
+    "missing": "70",
+    "wrong": "50",
+    "damaged": "15"
+  }]
+}
