@@ -1,0 +1,12 @@
+ 
+    {
+  "items": [{
+    "id": 1,
+    "img": "/img/product1_640x426.jpg",
+    "name": "Apple",
+   "defective": "15",
+    "missing": "70",
+    "wrong": "50",
+    "damaged": "15"
+  }]
+}
